@@ -1,0 +1,33 @@
+.menu ul li a {
+    color: white !important;
+}
+.nav_icon {
+    font-size: 30px;
+    color: blueviolet !important;
+}
+.heading {
+    color: whitesmoke;
+    background-color: slateblue;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.panel, .flip {
+    background-color: tomato;
+    padding: 10px;
+}
+.panel {
+    cursor: pointer;
+}
+.flip {
+    background-color: sienna;
+    display: none;
+}
+.sqbox {
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+}
+.colored {
+    background: yellow;
+}
